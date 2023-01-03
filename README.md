@@ -23,7 +23,7 @@
 Pour lancer le projet vous devriez ouvrir un terminal et lancer la commande suivante :
 
 ```java
-    git clone https://github.com/manissa005/ProjetDevops
+    https://github.com/agnes06MHN/HealthyLife.git
 ```
 
 - ensuite taper la commande suivante :
