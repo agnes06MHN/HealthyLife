@@ -31,7 +31,7 @@ Pour lancer le projet vous devriez ouvrir un terminal et lancer la commande suiv
 ```java 
     gradle build
     gradle run
-    cd frontend
+    cd my-app
     npm install
     npm start
 ```
